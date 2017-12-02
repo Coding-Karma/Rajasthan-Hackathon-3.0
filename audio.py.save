@@ -1,0 +1,3 @@
+input=raw_input("Please interact\n")
+if input is 'hello' or 'Hello' or 'Hi' or 'hey':
+	bash['

@@ -1,0 +1,2 @@
+eog "udaipurcitypalace.jpg"
+

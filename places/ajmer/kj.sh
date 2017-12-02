@@ -1,0 +1,1 @@
+eog "Khejarla.jpg"

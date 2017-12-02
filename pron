@@ -1,0 +1,12 @@
+import os
+import sys
+from subprocess import call
+print "I recently learned how to speak spanish\n"
+print "But it's not much, we can try hello and how are you?\n"
+input=raw_input("Let's try Hello \n")
+if input is 'hello' or 'Hello':
+	call(['bash','hola.sh'])
+input=raw_input("Now let's try how are you?\n")
+if input is 'how are you' or 'how are you?' or 'How are you?':
+	call(['bash','hru.sh'])
+print "That's all Thank you!"

@@ -1,0 +1,1 @@
+eog "jaswant thanda.jpg"

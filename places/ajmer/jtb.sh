@@ -1,0 +1,1 @@
+eog "Jain Temple Bhandasar"

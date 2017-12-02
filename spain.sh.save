@@ -1,0 +1,4 @@
+geoiplookup 88.26.241.248 | head -1 > spainlocation
+s=$(cat spainlocation) 
+#if [ "$s" = "GeoIP Country Edition: ES, Spain" ] then
+$(./

@@ -1,0 +1,1 @@
+eog "amberpalace.jpg"
